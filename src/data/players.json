@@ -1,0 +1,540 @@
+{
+  "players": [
+    {
+      "name": "Flip85",
+      "currentScore": 150,
+      "previousScores": [0, 0, 0],
+      "trend": "Artış",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Redgar",
+      "currentScore": 136,
+      "previousScores": [0, 0, 0],
+      "trend": "Düşüş",
+      "clan": "Ayyıldız",
+      "status": "Kötü"
+    },
+    {
+      "name": "Linhcon",
+      "currentScore": 115,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Seva2305",
+      "currentScore": 108,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Brutix",
+      "currentScore": 105,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Miralay01",
+      "currentScore": 96,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "HwaChung",
+      "currentScore": 92,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "CaSa53",
+      "currentScore": 91,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Stvz",
+      "currentScore": 90,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Emreyimben",
+      "currentScore": 90,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Meteylmzr",
+      "currentScore": 90,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Tiran",
+      "currentScore": 90,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Göktürkorhun",
+      "currentScore": 89,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "KaracaTR",
+      "currentScore": 88,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Sayal",
+      "currentScore": 87,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "AmirK",
+      "currentScore": 87,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "AliAbdulaziz",
+      "currentScore": 86,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "BsqaqTR",
+      "currentScore": 86,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Hünkar",
+      "currentScore": 85,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "İmazzy",
+      "currentScore": 81,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "MertBeyyy",
+      "currentScore": 81,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Halo1",
+      "currentScore": 81,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "RcpTR",
+      "currentScore": 80,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Paramedic",
+      "currentScore": 77,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Sonadar",
+      "currentScore": 76,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "G250",
+      "currentScore": 76,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Pessim1st",
+      "currentScore": 75,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Paradox3",
+      "currentScore": 75,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "WaytanT",
+      "currentScore": 75,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Rudelz",
+      "currentScore": 73,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Hakanbozkirr",
+      "currentScore": 73,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Khabib",
+      "currentScore": 59,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız",
+      "status": "İyi"
+    },
+    {
+      "name": "Berketrk",
+      "currentScore": 86,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "ChaosChaser",
+      "currentScore": 77,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "xAFDx",
+      "currentScore": 76,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "MrCat",
+      "currentScore": 74,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Orkhannn",
+      "currentScore": 74,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "VeArthhh",
+      "currentScore": 73,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Türker",
+      "currentScore": 73,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "QwowpTR",
+      "currentScore": 72,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "Normal"
+    },
+    {
+      "name": "KirveMero",
+      "currentScore": 72,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Sıfır1",
+      "currentScore": 72,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "JantiAdam",
+      "currentScore": 71,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "CihanTR",
+      "currentScore": 71,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Apellicon",
+      "currentScore": 71,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Ams420",
+      "currentScore": 71,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Mcan",
+      "currentScore": 71,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Jrn90",
+      "currentScore": 70,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Halo2",
+      "currentScore": 68,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Apex101",
+      "currentScore": 67,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "KissYou",
+      "currentScore": 67,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "FeanoR",
+      "currentScore": 67,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "xDrevya",
+      "currentScore": 66,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Solidute",
+      "currentScore": 65,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Divm",
+      "currentScore": 65,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Burkisilin",
+      "currentScore": 64,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "GökhanN",
+      "currentScore": 62,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "CaSSa",
+      "currentScore": 62,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Cimeriess",
+      "currentScore": 62,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "AkrepKral",
+      "currentScore": 62,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Cosman",
+      "currentScore": 59,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "LoseControl",
+      "currentScore": 57,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "OrhanBaku",
+      "currentScore": 49,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Jaimelesfleur",
+      "currentScore": 46,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "SivaslıCocuk",
+      "currentScore": 46,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "Stronq",
+      "currentScore": 45,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    },
+    {
+      "name": "HüseyinC",
+      "currentScore": 42,
+      "previousScores": [0, 0, 0],
+      "trend": "Sabit",
+      "clan": "Ayyıldız2",
+      "status": "İyi"
+    }
+  ]
+}
