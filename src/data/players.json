@@ -14,7 +14,7 @@
       "previousScores": [0, 0, 0],
       "trend": "Düşüş",
       "clan": "Ayyıldız",
-      "status": "Kötü"
+      "status": "İyi"
     },
     {
       "name": "Linhcon",
@@ -260,9 +260,9 @@
       "name": "Berketrk",
       "currentScore": 86,
       "previousScores": [0, 0, 0],
-      "trend": "Sabit",
+      "trend": "Düşüş",
       "clan": "Ayyıldız2",
-      "status": "İyi"
+      "status": "Kötü"
     },
     {
       "name": "ChaosChaser",
@@ -270,7 +270,7 @@
       "previousScores": [0, 0, 0],
       "trend": "Sabit",
       "clan": "Ayyıldız2",
-      "status": "Kötü"
+      "status": "İyi"
     },
     {
       "name": "xAFDx",
@@ -318,7 +318,7 @@
       "previousScores": [0, 0, 0],
       "trend": "Sabit",
       "clan": "Ayyıldız2",
-      "status": "Normal"
+      "status": "İyi"
     },
     {
       "name": "KirveMero",

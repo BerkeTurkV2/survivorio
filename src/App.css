@@ -109,6 +109,12 @@
   padding: 0.3rem 0.5rem;
 }
 
+.highlighted-name {
+  color: #28a745 !important;
+  font-weight: 900;
+  text-shadow: 0 0 10px rgba(40, 167, 69, 0.3);
+}
+
 @keyframes moveUp {
   0%, 100% {
     transform: translateY(0);

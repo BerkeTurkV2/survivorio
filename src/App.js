@@ -6,6 +6,16 @@ import './App.css';
 function App() {
   const [players, setPlayers] = useState([]);
 
+  const highlightedPlayers = [
+    'Redgar',
+    'KaracaTR',
+    'Berketrk',
+    'Paramedic',
+    'ChaosChaser',
+    'QwowpTR',
+    'Tiran'
+  ];
+
   useEffect(() => {
     // Puanlara göre sırala ve sıralama numarası ekle
     const sortedPlayers = playersData.players
@@ -82,7 +92,9 @@ function App() {
               {players.map((player) => (
                 <tr key={player.name}>
                   <td>{player.rank}</td>
-                  <td>{player.name}</td>
+                  <td className={highlightedPlayers.includes(player.name) ? 'highlighted-name' : ''}>
+                    {player.name}
+                  </td>
                   <td>{player.currentScore}</td>
                   <td>{player.previousScores.join(' ')}</td>
                   <td className="trend-cell">
